@@ -9,7 +9,8 @@ done
 
 ## EnSRT to ChEnSRT using deepseekAPI
 done
-about one hour per yuan.
+
+about one hour for 0.7 yuan.
 
 ## combine ChEnSRT and mp4 to ChEn-subtitle-video
 need subtitle_style setting method
