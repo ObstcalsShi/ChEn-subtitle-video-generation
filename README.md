@@ -8,9 +8,9 @@
 ❤️""""done"""
 
 ## EnSRT to ChEnSRT using deepseekAPI
-❤️""""done"""
+❤️""""done""", about one hour for 0.7 yuan.
 
-about one hour for 0.7 yuan.
+next plan, let AI check the black translated line and combine black line with right line in srt file.
 
 ## combine ChEnSRT and mp4 to ChEn-subtitle-video
 need subtitle_style setting method
