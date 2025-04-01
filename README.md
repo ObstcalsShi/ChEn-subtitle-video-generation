@@ -5,10 +5,10 @@
 ## prepare EnSRT
 
 ## wemb and w4a to mp4
-[×] done
+'done'
 
 ## EnSRT to ChEnSRT using deepseekAPI
-done
+'done'
 
 about one hour for 0.7 yuan.
 
