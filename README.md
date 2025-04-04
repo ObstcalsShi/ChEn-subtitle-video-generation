@@ -16,3 +16,5 @@ next plan, let AI check the black translated line and combine black line with ri
 
 ## combine ChEnSRT and mp4 to ChEn-subtitle-video
 ❤️done
+
+## [choose] splite video
